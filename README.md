@@ -24,6 +24,7 @@
   <img align="center" alt="Bruno-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 </br>
+
 ## Contatos
 <div>
   <a href = "mailto:brunocesarfranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
