@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor .NET Fullstack
 - 🌱 Atualmente estudando Angular/Flutter
-- 🧑‍💻 Trabalhando na FTI Tecnologia
+- 🧑‍💻 Trabalhando na MB Labs
 - 🏠 Londrina/PR
 
 
