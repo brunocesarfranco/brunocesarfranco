@@ -1,8 +1,8 @@
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
-- 🔭 Hoje trabalho como Desenvolvedor .NET Fullstack
-- 🌱 Atualmente estudando Angular/Flutter
-- 🧑‍💻 Trabalhando na MB Labs
+- 🔭 Hoje trabalho como Desenvolvedor .NET back-end
+- 🌱 Atualmente estudando Angular/Flutter/React
+- 🧑‍💻 Trabalhando na MB Labs Aplicativos
 - 🏠 Londrina/PR
 
 
