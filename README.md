@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor .NET back-end
 - 🌱 Atualmente estudando Angular/Flutter/React
-- 🧑‍💻 Trabalhando na MB Labs Aplicativos
+- 🧑‍💻 Trabalhando na Valid S.A.
 - 🏠 Londrina/PR
 
 
