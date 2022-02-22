@@ -5,15 +5,17 @@
 - 🧑‍💻 Trabalhando na Valid S.A.
 - 🏠 Londrina/PR
 
-
 ## Stats
-<div align="center">
+<div>
   <a href="https://github.com/brunocesarfranco">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+  &emsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 </br>
+
+## Techs
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bruno-Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
@@ -28,7 +30,11 @@
 </br>
 
 ## Contatos
-<div>
+<div align="center">
   <a href = "mailto:brunocesarfranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunocesarfranco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<br>
+<div align="center">
+  <a><img alt="valid-logo"  height="150" src="https://media-exp1.licdn.com/dms/image/C4D1BAQElGETPnwbI3w/company-background_10000/0/1623932009864?e=1645624800&v=beta&t=Gcg33snq5JJfg_WbritdI9DXfEmjG1S7o1VK0ejhCXA" target="_blank"></a>
 </div>
