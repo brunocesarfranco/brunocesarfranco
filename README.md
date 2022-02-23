@@ -4,6 +4,7 @@
 - 🌱 Atualmente estudando Angular/Flutter/Crystal Lang
 - 🧑‍💻 Trabalhando na Valid S.A.
 - 🏠 Londrina/PR
+- - Commit day
 
 ## Stats
 <div>
