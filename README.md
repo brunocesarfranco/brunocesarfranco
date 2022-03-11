@@ -1,8 +1,8 @@
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor .NET
-- 🌱 Atualmente estudando Google Cloud Platform (DevOps)
-- 🧑‍💻 Trabalhando na Valid S.A.
+- 🌱 Estudando Google Cloud Platform (DevOps)
+- 💻 Trabalho na Valid S.A.
 - 🏠 Londrina/PR
 
 ## Stats
