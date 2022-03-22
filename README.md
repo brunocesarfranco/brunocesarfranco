@@ -36,5 +36,5 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/company/valid-s-a-/" target="_blank"><img alt="valid-logo"  height="115" src="https://media-exp1.licdn.com/dms/image/C4D1BAQElGETPnwbI3w/company-background_10000/0/1623932009864?e=1646841600&v=beta&t=DFcj_JAlSAwosYgni83RN1LFXNTgMmCD1aPzzC7E6VY" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/valid-s-a-/" target="_blank"><img alt="valid-logo"  height="115" src="https://prnewswire.com.br/wp-content/uploads/2019/09/Valid_Logo.jpg" target="_blank"></a>
 </div>
