@@ -4,14 +4,12 @@
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps 
 - 💻 Trabalho na Valid S.A
 - 🏠 Londrina/PR
-
+omni
 ## Stats
-<div>
+<div align="center">
   <a href="https://github.com/brunocesarfranco">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  &emsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=omni"/>
 </div>
 </br>
 
