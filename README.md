@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor .NET
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps 
-- 💻 Trabalho na Valid S.A.
+- 💻 Trabalho na Valid S.A
 - 🏠 Londrina/PR
 
 ## Stats
