@@ -4,7 +4,7 @@
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps + React
 - 💻 Trabalho na Valid S.A.
 - 🏠 Londrina/PR
-omni
+
 ## Stats
 <div align="center">
   <a href="https://github.com/brunocesarfranco">
