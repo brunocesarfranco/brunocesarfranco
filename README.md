@@ -1,6 +1,7 @@
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor .NET
+- 📚 Analise e Desenvolvimento de Sistemas - PUCPR
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps + React
 - 💻 Trabalho na Valid S.A
 
