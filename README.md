@@ -1,5 +1,7 @@
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocesarfranco&color=blueviolet" alt="Profile views " /> </p>
+
 - 🔭 Hoje trabalho como Desenvolvedor .NET
 - 📚 Analise e Desenvolvimento de Sistemas - PUCPR
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps + React
@@ -8,7 +10,7 @@
 ## Stats
 <div align="center">
   <a href="https://github.com/brunocesarfranco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=omni"/>
 </div>
 </br>
