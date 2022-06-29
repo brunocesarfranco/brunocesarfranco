@@ -36,5 +36,5 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/company/valid-s-a-/" target="_blank"><img alt="valid-logo"  height="115" src="https://media-exp1.licdn.com/dms/image/C4D1BAQElGETPnwbI3w/company-background_10000/0/1623932009864?e=1655816400&v=beta&t=TxVYav8698fddBua9TcmlbAisaI4cYr337g0-vD-Ch4" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/valid-s-a-/" target="_blank"><img alt="valid-logo"  height="115" src="https://www.abcdacomunicacao.com.br/wp-content/uploads/Valid-1-1.jpeg" target="_blank"></a>
 </div>
