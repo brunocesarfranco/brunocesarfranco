@@ -2,7 +2,7 @@
 
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocesarfranco&color=blueviolet" alt="Profile views " /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocesarfranco&color=blue" alt="Profile views " /> </p>
 
 - 🔭 Hoje trabalho como Desenvolvedor Fullstack
 - 📚 Analise e Desenvolvimento de Sistemas - PUCPR
