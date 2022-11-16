@@ -2,7 +2,6 @@
 
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocesarfranco&color=blueviolet" alt="Profile views " /> </p>
 
 - 🔭 Hoje trabalho como Desenvolvedor Fullstack
@@ -33,8 +32,6 @@
   <img align="center" alt="Bruno-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bruno-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
   <img align="center" alt="Bruno-GCP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  
-
 </div>
 </br>
 
