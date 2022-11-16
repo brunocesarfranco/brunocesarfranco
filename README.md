@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 ## Olá, eu sou o Bruno Cesar Franco 👋
 
 
@@ -11,10 +13,12 @@
 ## Stats
 <div align="center">
   <a href="https://github.com/brunocesarfranco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=gotham&nclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 </br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=brunocesarfranco&theme=gotham&hide_border=true&area=true)
 
 ## Techs
 <div align="center" style="display: inline_block"><br>
@@ -43,3 +47,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/company/valid-s-a-/" target="_blank"><img alt="valid-logo"  height="115" src="https://www.abcdacomunicacao.com.br/wp-content/uploads/Valid-1-1.jpeg" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
