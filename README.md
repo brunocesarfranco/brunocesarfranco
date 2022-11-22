@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## Olá, eu sou o Bruno Cesar Franco 👋
+## Olá, mwu nome é Bruno Cesar Franco 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocesarfranco&color=blue" alt="Profile views " /> </p>
 
