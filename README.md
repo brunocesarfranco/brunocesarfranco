@@ -17,8 +17,6 @@
 </div>
 </br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=brunocesarfranco&theme=gotham&hide_border=true&area=true)
-
 ## Techs
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
