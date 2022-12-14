@@ -6,7 +6,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor Fullstack
 - 📚 Analise e Desenvolvimento de Sistemas - PUCPR
-- 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps + React
+- 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps
 - 💻 Trabalho na Valid S.A
 
 ## Stats
