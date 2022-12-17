@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocesarfranco&color=blue" alt="Profile views " /> </p>
 
 - 🔭 Hoje trabalho como Desenvolvedor Fullstack
-- 📚 Analise e Desenvolvimento de Sistemas - PUCPR
+- 📚 Analise e Desenvolvimento de Sistemas - PUCPR 
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps
 - 💻 Trabalho na Valid S.A
 
