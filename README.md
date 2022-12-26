@@ -9,6 +9,7 @@
 - 🌱 Estudando Google Cloud Platform (BigQuery) + DevOps
 - 💻 Trabalho na Valid S.A
 
+
 ## Stats
 <div align="center">
   <a href="https://github.com/brunocesarfranco">
