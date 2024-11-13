@@ -7,7 +7,7 @@
 - 🔭 Hoje trabalho como Desenvolvedor .NET
 - 📚 Analise e Desenvolvimento de Sistemas - PUCPR 
 - 🌱 Estudando Google Cloud Platform + DevOps
-- 💻 Trabalho na Valid S.A
+- 💻 Trabalho na act digital com o cliente Raizen
 
 
 ## Stats
