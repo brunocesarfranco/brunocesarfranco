@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f80fff&height=120&section=header"/>
 
 ## Olá, meu nome é Bruno Cesar Franco 👋
 
@@ -45,4 +45,4 @@
   <a target="_blank"><img alt="raizen-logo"  height="115" src="https://media.licdn.com/dms/image/v2/D4D0BAQGYObFYLDkU3Q/company-logo_200_200/company-logo_200_200/0/1719858292604/raizenoficial_logo?e=1739404800&v=beta&t=3p-0HbQL3BXbBUHDVvwsYBRquCGCmcvih4SqRWvRJAA" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f80fff&height=120&section=footer"/>
