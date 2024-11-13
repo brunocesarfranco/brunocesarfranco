@@ -41,7 +41,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/company/valid-s-a-/" target="_blank"><img alt="valid-logo"  height="115" src="https://www.abcdacomunicacao.com.br/wp-content/uploads/Valid-1-1.jpeg" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/act-digital/" target="_blank"><img alt="act-logo"  height="115" src="https://media.licdn.com/dms/image/v2/D4D16AQHD9n_TCW3K6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729867997985?e=1736985600&v=beta&t=4kaP7RVD7KQx0aPYVSmHEKfGApi23Ij3qSgT_35I-XA" target="_blank"></a>
+  <a target="_blank"><img alt="raizen-logo"  height="115" src="https://media.licdn.com/dms/image/v2/D4D0BAQGYObFYLDkU3Q/company-logo_200_200/company-logo_200_200/0/1719858292604/raizenoficial_logo?e=1739404800&v=beta&t=3p-0HbQL3BXbBUHDVvwsYBRquCGCmcvih4SqRWvRJAA" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
