@@ -9,14 +9,6 @@
 - 🌱 Estudando Google Cloud Platform + DevOps
 
 
-## Stats
-<div align="center">
-  <a href="https://github.com/brunocesarfranco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarfranco&show_icons=true&theme=gotham&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocesarfranco&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-</br>
-
 ## Techs
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
