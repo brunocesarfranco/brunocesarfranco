@@ -6,7 +6,6 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor .NET
 - 📚 Analise e Desenvolvimento de Sistemas - PUCPR 
-- 🌱 Estudando Google Cloud Platform + DevOps
 
 
 ## Techs
